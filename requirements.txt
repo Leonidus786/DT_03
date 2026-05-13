@@ -1,16 +1,16 @@
 # ----------------------------
 # CORE PYTHON UTILITIES
 # ----------------------------
-pip>=24.0
-setuptools>=70.0
+pip
+setuptools
 wheel
 
 # ----------------------------
 # DATA ANALYSIS (DA)
 # ----------------------------
-numpy>=1.26
-pandas>=2.2
-scipy>=1.12
+numpy
+pandas
+scipy
 openpyxl
 xlrd
 pyarrow
@@ -22,8 +22,8 @@ pymysql
 # ----------------------------
 # DATA VISUALIZATION
 # ----------------------------
-matplotlib>=3.8
-seaborn>=0.13
+matplotlib
+seaborn
 # plotly
 # bokeh
 # altair
@@ -37,7 +37,7 @@ scikit-posthocs
 # ----------------------------
 # MACHINE LEARNING (ML)
 # ----------------------------
-scikit-learn>=1.4
+scikit-learn
 xgboost
 lightgbm
 catboost
